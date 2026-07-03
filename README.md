@@ -79,8 +79,8 @@ Bellabeat should lean heavily into marketing its passive, automatic tracking cap
 The data indicate that regular movement and intensive activity are the primary drivers of caloric expenditure, while prolonged stationary time (being more sedentary) predictably hinders health goals. By leveraging these insights—specifically by prompting action during sedentary valleys (Mondays) and celebrating activity peaks (Saturdays)—Bellabeat can design a highly tailored wellness app that empowers the user experience. This will ultimately guide users to balance intensity and movement throughout their busy weeks and solidify Bellabeat's footprint in the global smart wellness market.
 
 
-Author:
-Timothy John
+#### Author:
+##### **Timothy John**
 
-Project Date: June 29, 2026
+###### Project Date: June 29, 2026
 
